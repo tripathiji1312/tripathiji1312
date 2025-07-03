@@ -14,7 +14,7 @@
 
 ```javascript
 const developer = {
-    name: "Tripathi",
+    name: "Swarnim Tripathi",
     title: "Student Developer",
     location: "🇮🇳 India",
     code: ["Python", "JavaScript", "Java", "SQL", "C++"],
@@ -26,7 +26,6 @@ const developer = {
         },
         backEnd: {
             python: ["Django", "Flask", "FastAPI"],
-            js: ["Node.js", "Express.js"],
             misc: ["REST APIs", "GraphQL", "Microservices"]
         },
         databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
