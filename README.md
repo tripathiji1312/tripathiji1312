@@ -14,10 +14,10 @@
 
 ```javascript
 const developer = {
-    name: "Swarnim Tripathi",
+    name: "Tripathi",
     title: "Student Developer",
     location: "🇮🇳 India",
-    code: ["Python", "JavaScript", "Java", "SQL", "C++", "Rust"],
+    code: ["Python", "JavaScript", "Java", "SQL", "C++"],
     askMeAbout: ["Machine Learning", "Backend Development", "APIs", "Data Science"],
     technologies: {
         machineLearning: {
@@ -26,6 +26,7 @@ const developer = {
         },
         backEnd: {
             python: ["Django", "Flask", "FastAPI"],
+            js: ["Node.js", "Express.js"],
             misc: ["REST APIs", "GraphQL", "Microservices"]
         },
         databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
@@ -106,19 +107,8 @@ const developer = {
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)
 
 ### 🎵 Spotify Playing
-[![Spotify](https://novatorem-kygjxfkjss.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+[![Spotify](https://novatorem-kygjxfkjss.vercel.app/api/spotify)](https://open.spotify.com/user/31dnvkysyi2rck3he6vm4cmenohy)
 
-</div>
-
-## 🎯 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-  </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-  </a>
 </div>
 
 ## 🌐 Connect With Me
@@ -137,12 +127,6 @@ const developer = {
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker"/>
-</div>
-
-## 👁️ Profile Views
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
 </div>
 
 ---
