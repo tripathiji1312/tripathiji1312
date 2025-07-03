@@ -1,7 +1,7 @@
 # <div align="center">🌟 Welcome to My Digital Universe 🌟</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Code+Architect;Digital+Innovator;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Student+Developer;ML+Enthusiast;Backend+Developer;Data+Science+Explorer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,27 +14,27 @@
 
 ```javascript
 const developer = {
-    name: "Your Name",
-    title: "Full Stack Developer",
-    location: "🌍 Earth",
-    code: ["JavaScript", "Python", "Java", "Go", "TypeScript"],
-    askMeAbout: ["Web Dev", "Tech", "App Dev", "Photography"],
+    name: "Tripathi",
+    title: "Student Developer",
+    location: "🇮🇳 India",
+    code: ["Python", "JavaScript", "Java", "SQL", "C++"],
+    askMeAbout: ["Machine Learning", "Backend Development", "APIs", "Data Science"],
     technologies: {
-        frontEnd: {
-            js: ["React", "Angular", "Vue"],
-            css: ["Sass", "Tailwind", "Bootstrap"]
+        machineLearning: {
+            libraries: ["TensorFlow", "PyTorch", "Scikit-learn", "Pandas", "NumPy"],
+            tools: ["Jupyter", "Google Colab", "MLflow"]
         },
         backEnd: {
-            js: ["Node", "Express", "Next.js"],
             python: ["Django", "Flask", "FastAPI"],
-            misc: ["GraphQL", "REST APIs"]
+            js: ["Node.js", "Express.js"],
+            misc: ["REST APIs", "GraphQL", "Microservices"]
         },
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-        devOps: ["Docker", "Kubernetes", "AWS", "GCP"],
-        tools: ["Git", "Webpack", "Vite", "Linux"]
+        databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
+        cloud: ["AWS", "Google Cloud", "Docker"],
+        tools: ["Git", "Linux", "Postman", "VS Code"]
     },
-    currentFocus: "Building scalable applications & learning AI/ML",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+    currentFocus: "Mastering ML algorithms & building robust backend systems",
+    funFact: "I can spend hours debugging ML models and still find it exciting! 🤖"
 };
 ```
 
@@ -42,23 +42,28 @@ const developer = {
 
 <div align="center">
 
-### 🎨 Frontend Magic
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🤖 Machine Learning & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### ⚡ Backend Power
+### ⚡ Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 💻 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🗄️ Database Wizardry
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -77,8 +82,8 @@ const developer = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tripathji1312&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathji1312&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 </div>
 
 <div align="center">
@@ -148,5 +153,5 @@ const developer = {
 </div>
 
 <div align="center">
-  <h3>⭐ From [yourusername](https://github.com/yourusername) with ❤️</h3>
+  <h3>⭐ From [tripathji1312](https://github.com/tripathji1312) with ❤️</h3>
 </div>
