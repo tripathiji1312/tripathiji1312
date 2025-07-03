@@ -14,10 +14,10 @@
 
 ```javascript
 const developer = {
-    name: "Tripathi",
+    name: "Swarnim Tripathi",
     title: "Student Developer",
     location: "🇮🇳 India",
-    code: ["Python", "JavaScript", "Java", "SQL", "C++"],
+    code: ["Python", "JavaScript", "Java", "SQL", "C++", "Rust"],
     askMeAbout: ["Machine Learning", "Backend Development", "APIs", "Data Science"],
     technologies: {
         machineLearning: {
@@ -26,7 +26,6 @@ const developer = {
         },
         backEnd: {
             python: ["Django", "Flask", "FastAPI"],
-            js: ["Node.js", "Express.js"],
             misc: ["REST APIs", "GraphQL", "Microservices"]
         },
         databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
@@ -82,8 +81,8 @@ const developer = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tripathji1312&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathji1312&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tripathiji1312&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathiji1312&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 </div>
 
 <div align="center">
@@ -153,5 +152,5 @@ const developer = {
 </div>
 
 <div align="center">
-  <h3>⭐ From [tripathji1312](https://github.com/tripathji1312) with ❤️</h3>
+  <h3>⭐ From [tripathiji1312](https://github.com/tripathiji1312) with ❤️</h3>
 </div>
