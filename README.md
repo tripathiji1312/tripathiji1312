@@ -107,7 +107,7 @@ const developer = {
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tripathiji1312&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)
 
 ### 🎵 Spotify Playing
-[![Spotify](https://novatorem-kygjxfkjss.vercel.app/api/spotify)](https://open.spotify.com/user/31dnvkysyi2rck3he6vm4cmenohy)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dnvkysyi2rck3he6vm4cmenohy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31dnvkysyi2rck3he6vm4cmenohy&redirect=true)
 
 </div>
 
