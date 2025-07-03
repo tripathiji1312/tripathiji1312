@@ -101,7 +101,7 @@ const developer = {
 <div align="center">
 
 ### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/tripathiji1312/tripathiji1312/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/tripathiji1312/tripathiji1312/output/snake.svg" alt="Snake animation" />
 
 ### 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tripathiji1312&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)
