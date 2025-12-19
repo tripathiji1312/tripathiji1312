@@ -23,13 +23,13 @@ B.Tech Computer Science and Engineering | 2024–2028
 
 ## 📊 GitHub Stats
 
-&lt;div align="center"&gt;
-  &lt;img height="180em" src="https://github-readme-stats.vercel.app/api?username=tripathiji1312&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/&gt;
-  &lt;img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathiji1312&layout=compact&langs_count=6&theme=dark&hide_border=true"/&gt;
-&lt;/div&gt;
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tripathiji1312&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathiji1312&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" />
+</div>
 
 ---
 
 &lt;div align="center"&gt;
-  &lt;h3&gt;⭐ Open to Summer 2025 Internships | ML Engineer | Backend Developer Roles&lt;/h3&gt;
+  &lt;h3&gt;⭐ Open to offers | ML Engineer | Backend Developer Roles&lt;/h3&gt;
 &lt;/div&gt;
