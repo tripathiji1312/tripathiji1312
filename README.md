@@ -30,6 +30,4 @@ B.Tech Computer Science and Engineering | 2024–2028
 
 ---
 
-&lt;div align="center"&gt;
-  &lt;h3&gt;⭐ Open to offers | ML Engineer | Backend Developer Roles&lt;/h3&gt;
-&lt;/div&gt;
+<h3 align="center">⭐ Open to Offers | ML Engineer | Backend Developer</h3>
