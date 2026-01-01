@@ -1,33 +1,72 @@
-# Swarnim Tripathi | AI/ML Developer
+<h1 align="center">Swarnim Tripathi</h1>
+<p align="center">
+  <b>AI / ML Engineer · Backend Developer</b>
+</p>
 
-**🔗 [LinkedIn](https://linkedin.com/in/swarnim-trip) | 📧 swarnim.tr@gmail.com | 📍 Lucknow, Uttar Pradesh, India currently studying in Chennai**
-
-&gt; Computer Science student at Vellore Institute of Technology (2024–2028) building production-ready AI/ML applications. Specialized in deep learning, predictive modeling, and full-stack deployment.
-
-## 💼 Technical Skills
-
-**Core Languages:** Python, C++, JavaScript, SQL, Kotlin, Rust
-
-**AI/ML Stack:** PyTorch, TensorFlow, scikit-learn, Transformers, LoRA, Stable-Baselines3, LSTM, DQN, Sentence-Transformers, XGBoost
-
-**Backend & APIs:** FastAPI, Flask, Django, Docker, Docker Compose
-
-**Databases:** PostgreSQL, MongoDB, TimescaleDB
-
-**Deployment & Tools:** Vercel, Render, Git, Linux, CI/CD
-
-## 🎓 Education & Certifications
-
-**Vellore Institute of Technology** | Chennai, India  
-B.Tech Computer Science and Engineering | 2024–2028
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tripathiji1312&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathiji1312&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" />
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/swarnim-trip">LinkedIn</a> •
+  <a href="mailto:swarnim.tr@gmail.com">swarnim.tr@gmail.com</a> •
+  India (Lucknow) · Studying in Chennai
+</p>
 
 ---
 
-<h3 align="center">⭐ Open to Offers | ML Engineer | Backend Developer</h3>
+### About Me
+
+Computer Science undergraduate at **Vellore Institute of Technology (2024–2028)** focused on building  
+**production-ready AI/ML systems** with strong backend integration.
+
+I enjoy working at the intersection of **machine learning, backend engineering, and systems**,  
+taking ideas from research and prototypes to **scalable, deployable applications**.
+
+---
+
+### Tech Stack
+
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>Python · C++ · JavaScript · SQL · Kotlin · Rust</td>
+</tr>
+
+<tr>
+<td><b>Machine Learning</b></td>
+<td>
+PyTorch · TensorFlow · scikit-learn · Transformers · LoRA<br/>
+LSTM · DQN · Stable-Baselines3 · Sentence-Transformers · XGBoost
+</td>
+</tr>
+
+<tr>
+<td><b>Backend</b></td>
+<td>FastAPI · Flask · Django · Docker · Docker Compose</td>
+</tr>
+
+<tr>
+<td><b>Databases</b></td>
+<td>PostgreSQL · MongoDB · TimescaleDB</td>
+</tr>
+
+<tr>
+<td><b>Tools</b></td>
+<td>Git · Linux · CI/CD · Vercel · Render</td>
+</tr>
+</table>
+
+---
+
+### Education
+
+**Vellore Institute of Technology, Chennai**  
+B.Tech in Computer Science and Engineering  
+2024 – 2028
+
+
+
+
+---
+
+<p align="center">
+  <b>Open to Internships & Entry-Level Roles</b><br/>
+  Machine Learning · AI Engineering · Backend Development
+</p>
