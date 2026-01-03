@@ -1,72 +1,51 @@
-<h1 align="center">Swarnim Tripathi</h1>
-<p align="center">
-  <b>AI / ML Engineer · Backend Developer</b>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/swarnim-trip">LinkedIn</a> •
-  <a href="mailto:swarnim.tr@gmail.com">swarnim.tr@gmail.com</a> •
-  India (Lucknow) · Studying in Chennai
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Swarnim%20Tripathi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
----
+**AI/ML Engineer · Backend Developer**
 
-### About Me
+<br/>
 
-Computer Science undergraduate at **Vellore Institute of Technology (2024–2028)** focused on building  
-**production-ready AI/ML systems** with strong backend integration.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swarnim-trip)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swarnim.tr@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/tripathiji1312)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/tripathiji1312)
 
-I enjoy working at the intersection of **machine learning, backend engineering, and systems**,  
-taking ideas from research and prototypes to **scalable, deployable applications**.
+</div>
 
----
+## About
 
-### Tech Stack
+Computer Science undergraduate at **Vellore Institute of Technology** (2024–2028), building production-ready AI/ML systems with robust backend integration.
 
-<table>
-<tr>
-<td><b>Languages</b></td>
-<td>Python · C++ · JavaScript · SQL · Kotlin · Rust</td>
-</tr>
+I work at the intersection of machine learning, backend engineering, and systems—transforming research concepts and prototypes into scalable, deployable applications.
 
-<tr>
-<td><b>Machine Learning</b></td>
-<td>
-PyTorch · TensorFlow · scikit-learn · Transformers · LoRA<br/>
-LSTM · DQN · Stable-Baselines3 · Sentence-Transformers · XGBoost
-</td>
-</tr>
+## Tech Stack
 
-<tr>
-<td><b>Backend</b></td>
-<td>FastAPI · Flask · Django · Docker · Docker Compose</td>
-</tr>
+**Languages**  
+Python · C++ · JavaScript · SQL · Kotlin · Rust
 
-<tr>
-<td><b>Databases</b></td>
-<td>PostgreSQL · MongoDB · TimescaleDB</td>
-</tr>
+**Machine Learning**  
+PyTorch · TensorFlow · scikit-learn · Transformers · LoRA · LSTM · DQN · Stable-Baselines3 · Sentence-Transformers · XGBoost
 
-<tr>
-<td><b>Tools</b></td>
-<td>Git · Linux · CI/CD · Vercel · Render</td>
-</tr>
-</table>
+**Backend & Infrastructure**  
+FastAPI · Flask · Django · Docker · Docker Compose
 
----
+**Databases**  
+PostgreSQL · MongoDB · TimescaleDB
 
-### Education
+**Tools & Platforms**  
+Git · Linux · CI/CD · Vercel · Render
+
+## Education
 
 **Vellore Institute of Technology, Chennai**  
-B.Tech in Computer Science and Engineering  
-2024 – 2028
-
-
-
+B.Tech in Computer Science and Engineering · 2024–2028
 
 ---
 
-<p align="center">
-  <b>Open to Internships & Entry-Level Roles</b><br/>
-  Machine Learning · AI Engineering · Backend Development
-</p>
+<div align="center">
+
+**Open to Internships & Entry-Level Roles**  
+Machine Learning · AI Engineering · Backend Development
+
+</div>
